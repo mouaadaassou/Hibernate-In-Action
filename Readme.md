@@ -6,5 +6,5 @@ expose the Domain Model through an API.
 
 the Domain Model is As Follow :
 ---
-![CaveatEmptor Domain Model](img/Screenshot from 2019-10-27 19-15-04.png)
+![CaveatEmptor Domain Model](img/data-model.png)
 
